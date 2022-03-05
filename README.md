@@ -1,6 +1,4 @@
-# tarea_6
-
-A new Flutter project.
+# Periodic Table
 
 ## Getting Started
 
